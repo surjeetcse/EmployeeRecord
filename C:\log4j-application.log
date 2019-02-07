@@ -1,0 +1,10 @@
+2019-02-06 11:32:17 DEBUG Log4jHelloWorld:18 - This is debug : mkyong
+2019-02-06 11:32:17 INFO  Log4jHelloWorld:22 - This is info : mkyong
+2019-02-06 11:32:17 WARN  Log4jHelloWorld:25 - This is warn : mkyong
+2019-02-06 11:32:17 ERROR Log4jHelloWorld:26 - This is error : mkyong
+2019-02-06 11:32:17 FATAL Log4jHelloWorld:27 - This is fatal : mkyong
+2019-02-06 11:34:21 DEBUG Log4jHelloWorld:18 - This is debug : mkyong
+2019-02-06 11:34:21 INFO  Log4jHelloWorld:22 - This is info : mkyong
+2019-02-06 11:34:21 WARN  Log4jHelloWorld:25 - This is warn : mkyong
+2019-02-06 11:34:21 ERROR Log4jHelloWorld:26 - This is error : mkyong
+2019-02-06 11:34:21 FATAL Log4jHelloWorld:27 - This is fatal : mkyong
